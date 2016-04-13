@@ -1,0 +1,63 @@
+{
+    "colors" : {
+        "top" : "#5b9dbe",
+        "bottom" : "#056294",
+        "cartel" : "#f6fbf9"
+    },
+    "releases" : [
+        {
+            "id" : 1,
+            "title" : "Les migrants",
+            "color": "#f2a73b",
+            "url": "http://www.liberation.fr/apps/2015/10/le-ptit-libe-migrants/"
+        },
+        {
+            "id" : 2,
+            "title" : "La COP21",
+            "color": "#abba3e",
+            "url": "http://www.liberation.fr/apps/2015/11/le-ptit-libe-cop21/"
+        },
+        {
+            "id" : 3,
+            "title" : "Les attentats à Paris",
+            "color": "#a5cde3",
+            "url": "http://www.liberation.fr/apps/2015/11/le-ptit-libe-attentats-paris/"
+        },
+        {
+            "id" : 4,
+            "title" : "Les régionales",
+            "color": "#008a90",
+            "url": "http://www.liberation.fr/apps/2015/12/le-ptit-libe-regionales/"
+        },
+        {
+            "id" : 5,
+            "title" : "Sécurité : la vie après les attentats",
+            "color": "#d1085b",
+            "url": "http://www.liberation.fr/apps/2016/01/le-ptit-libe-apres-attentats/"
+        },
+        {
+            "id" : 6,
+            "title" : "Les secrets du 29 février",
+            "color": "#71519d",
+            "url": "http://www.liberation.fr/apps/2016/02/le-ptit-libe-annee-bissextile/"
+        },
+        {
+            "id" : 7,
+            "title" : "Zika et les épidémies",
+            "color": "#DB5556",
+            "url": "http://www.liberation.fr/apps/2016/03/le-ptit-libe-zika-et-les-epidemies/"
+        },
+        {
+            "id" : "7.5",
+            "title" : "La semaine de la presse",
+            "color": "#de1444",
+            "url": "http://www.liberation.fr/apps/2016/03/le-ptit-libe-semaine-de-la-presse/"
+        },
+        {
+            "id" : 8,
+            "title" : "La Loi Travail",
+            "color": "#1f7cad",
+            "url": "http://www.liberation.fr/apps/2016/04/le-ptit-libe-loi-travail/"
+        }
+    ]
+}
